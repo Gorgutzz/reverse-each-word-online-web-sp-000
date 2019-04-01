@@ -4,5 +4,5 @@ def reverse_each_word(string)
     words << string.reverse_each_word
   end
 end
-    
+
     
